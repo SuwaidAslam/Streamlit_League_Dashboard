@@ -6,7 +6,7 @@ A Streamlit League Dashboard, developed to help visualize the data in an interac
 
 # Demo
 
-https://user-images.githubusercontent.com/45914161/184222604-4381315a-ceed-4ce9-af65-13cdff5e5677.mp4
+https://github.com/SuwaidAslam/Streamlit_League_Dashboard/blob/main/Demo.mp4
 
 
 ## Technology Stack 
