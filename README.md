@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/45914161/215599207-5e2d900a-d4d8-4186-
 ## Technology Stack 
 
 1. Python 
-2. Plotly Dash 
+2. Streamlit
 3. Pandas
 4. Plotly
 
@@ -33,7 +33,7 @@ $ source env/Source/activate
 ```
 $ pip install -r requirements.txt
 ```
-- Run index.py file
+- Run: Streamlit run index.py
 
 ## Contact
 
